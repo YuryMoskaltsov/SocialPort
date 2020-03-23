@@ -9,3 +9,5 @@ I am kindly asking you for help. If you can have a look through the presentation
 4. Let me know of any other information that can be useful for this project
 
 This repository contains all of the files related to the Social Port
+
+Please contact <h2> yury.socialport@protonmail.com </h2>
